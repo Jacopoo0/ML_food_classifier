@@ -1,6 +1,5 @@
 # Food Image Classifier - README
 
-![Example Classifications](https://via.placeholder.com/800x400?text=Sample+Classification+Results)
 
 ## Project Description
 
@@ -86,10 +85,6 @@ The script generates several visualizations:
 2. Sample images from the dataset
 3. Training/validation accuracy plots
 4. Prediction results on test images
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
